@@ -6,4 +6,3 @@ This experiment consists of the following files:
 - MyModel - a Monte Carlo model simulation based on best approximations for input variables today (September 2024)
 - MyModel-HighCapabilities - the same Monte Carlo model with input variables updated to reflect a more mature set of dangerous capabilities with no change to the protective capabilities scores
 - RSP_Diagram - Visualisation of the diagram showing Responsible Scaling Policies (RSP) zones of safe and risky (with illustrative data)
-- Visualise_Variables_New - visualisations to show probability ranges and confidence levels set for input variables
